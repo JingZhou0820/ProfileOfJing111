@@ -81,6 +81,7 @@
     <Content Include="Asset\logo.png" />
     <Content Include="Asset\photogallery.jpg" />
     <Content Include="Asset\Project.png" />
+    <Content Include="Asset\restaurant.jpg" />
     <Content Include="Asset\service.png" />
     <Content Include="Asset\smallgame.png" />
     <Content Include="Asset\web.png" />

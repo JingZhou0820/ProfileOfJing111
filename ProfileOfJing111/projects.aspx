@@ -49,11 +49,18 @@
     <p>Project 4</p>
       </div>
     </div>
-       <div class="item active">    
+       <div class="item">    
      <a href="http://projectdatatracking2016.azurewebsites.net/"> <img src="Asset/gametracker.jpg" alt="..."></a>
       <div class="carousel-caption">
         <h3>Game Tracking</h3>
     <p>Project 5</p>
+      </div>
+    </div>
+      <div class="item active">    
+     <a href="http://eatyo.azurewebsites.net/"> <img src="Asset/restaurant.jpg" alt="..."></a>
+      <div class="carousel-caption">
+        <h3>Eat Yo/1st version</h3>
+    <p>Project 6</p>
       </div>
     </div>
   </div>
